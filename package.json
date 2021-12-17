@@ -1,0 +1,11 @@
+{
+  "name": "jsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "UC1 employee presence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maha",
+  "license": "ISC"
+}
